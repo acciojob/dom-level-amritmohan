@@ -1,7 +1,7 @@
 //your JS code here. If required.
 
-var element = document.getElementById("level");
-var level = 0;
+let element = document.getElementById("level");
+let level = 0;
 
 // Traverse up the DOM tree until reaching the root element
 while (element) {
